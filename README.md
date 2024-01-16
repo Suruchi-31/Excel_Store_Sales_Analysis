@@ -13,4 +13,4 @@ answering the following question:
 
 5.Which distribution channels are most effectively contributing to sales?
 
-Lastly i have added Slicers fro Channel,Category and month for the ease of access and better visualization.
+Lastly i have added slicers for Channel,Category and month for the ease of access and better data visualization
